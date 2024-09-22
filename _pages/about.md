@@ -36,7 +36,7 @@ I am Hongkai Wei, a Ph.D. student in Traffic Information Engineering and Control
 - LMTTM-VMI: Linked Memory Token Turing Machine for 3D Volumetric Medical Image Classification (Under Review)
 
 # 🎖 Honors and Awards
-- 2021-2022 国家奖学金(top 2%)
+- 2021-2022 National Scholarships (Top 2‰)
 
 
 <!-- 
