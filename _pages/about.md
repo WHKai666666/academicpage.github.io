@@ -33,28 +33,10 @@ I am Hongkai Wei, a Ph.D. student in Traffic Information Engineering and Control
 # 📝 Publications
 
 ## 2024 
-- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL)
-
-## Before
-- Wang Honglong, Fu Yanjie,**<u>Li Junjie</u>**, et al. ”Stream Attention Based U-Net for L3DAS23
-Challenge,” ICASSP 2023, pp. 1-2, doi: 10.1109/ICASSP49357.2023.10095854.
-- **<u>Li Junjie</u>**, Ge Meng, et al. Rethinking the Visual Cues in Audio-Visual Speaker Extraction. Proc. INTER-
-SPEECH 2023, 3754-3758, doi: 10.21437/Interspeech.2023-2545. [![](https://img.shields.io/github/stars/mrjunjieli/DAVSE?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DAVSE)
-- **<u>Li Junjie</u>**, Ge Meng, et al. ”Deep Multi-task Cascaded Acoustic Echo Cancellation and Noise Suppres-
-sion,” 2022 13th ISCSLP, pp. 130-134, doi: 10.1109/ISCSLP57327.2022.10037852.  [![](https://img.shields.io/github/stars/mrjunjieli/DMC_AEC?style=social&label=Code+Stars)](https://github.com/mrjunjieli/DMC_AEC)
-- **<u>Li Junjie</u>**, Ge Meng, et al. VCSE: Time-Domain Visual-Contextual Speaker Extraction Network. Proc.
-INTERSPEECH 2022, 906-910, doi: 10.21437/Interspeech.2022-11183. [![](https://img.shields.io/github/stars/mrjunjieli/LRS3_for_AVSS?style=social&label=Code+Stars)](https://github.com/mrjunjieli/LRS3_for_AVSS)
-- **<u>Li Junjie</u>** and Liu Ding, “Information bottleneck theory on convolutional neural networks,” Neural Pro-
-cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://img.shields.io/github/stars/mrjunjieli/IB_ON_CNN?style=social&label=Code+Stars)](https://github.com/mrjunjieli/IB_ON_CNN)
+- LMTTM-VMI: Linked Memory Token Turing Machine for 3D Volumetric Medical Image Classification (Under Review on CPMB)
 
 # 🎖 Honors and Awards
-- 2016-2017 President’s Scholarship Second Class (top 7%) [[pdf]](../pdf/Award_Scholarship_2nd.pdf)
-- 2016-2017 Merit Student (top 5%)[[pdf]](../pdf/Award_MeritStudent_.pdf)
-- 2017-2018 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd_.pdf)
-- 2018-2019 President’s Scholarship Third Class (top 15%)[[pdf]](../pdf/Award_Scholarship_3nd.pdf)
-- 2018-2019 Merit Student (top 5%) [[pdf]](../pdf/Award_MeritStudent.pdf)
-- 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
-- 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
+- 2021-2022 国家奖学金(top 2%)
 
 
 <!-- 
