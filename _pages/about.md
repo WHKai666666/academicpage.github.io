@@ -17,17 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Ph.D student, Department of Electrical and Eletronic Engineering, Faculty of Engineering, The Hong Kong Polytechnic University (PolyU)🇭🇰. My chief supervisor is <a href="https://sites.google.com/view/kongaiklee"> Dr. Kong Aik LEE </a> and co-supervisor is <a href="http://www.eie.polyu.edu.hk/~mwmak/">Prof. Man-Wai Mak</a>. I recived my Master's Degree in College of Intellgence and Computing, Tianjin University, supervised by <a href="https://cic.tju.edu.cn/faculty/wanglongbiao/wang.html">Prof. Longbiao WANG</a>, and recived my Bachelor's Degree in School of Computer Science and Technology, Tiangong University. In my third year as an undergraduate, I was fortunate to have the opportunity to study under <a href='https://scholar.google.com.hk/citations?user=g9oFBgMAAAAJ&hl=zh-CN&oi=sra'>Dr. Ding Liu</a>, who is an excellent teacher, guiding me to the academic path. 
-
-My research interest includes Speech Separation, Text to Speech and Speaker-related tasks, such as Speaker Verification, Anti-spoofing and Voice Anonymization. <a href='https://scholar.google.com/citations?user=CInvjq8AAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https%3A%2F%2Fcdn.jsdelivr.net%2Fgh%2Fmrjunjieli%2Fmrjunjieli.github.io@google-scholar-stats%2Fgs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> 
-
-
+I am Hongkai Wei, a Ph.D. student in Traffic Information Engineering and Control at Chang'an University. My supervisor is Professor Huansheng Song. I hold a Bachelor's degree from the School of Computer Science at Chengdu University. My research interests include medical image processing and traffic scene perception.
 
 
 # 📖 Educations
-- 2024.05 - present, Ph.D. candidate in epartment of Electrical and Eletronic Engineering,  The Hong Kong Polytechnic University, Hong Kong SAR. 
-- 2020.09 - 2023.03, M.E. in College of Intellgence and Computing, Tianjin University, Tianjin. 
-- 2016-09 - 2020.06, B.E. in School of Computer Science and Technology, Tiangong University (Tianjin Polytechnic University), Tianjin. 
+- 2023.09 - present, Ph.D. candidate in school of Information Engineering,  Chang'an University, Xi'an , Shaanxi. 
+- 2019-09 - 2023.06, B.E. in School of Computer , Chengdu University, Chengdu, Sichuan. 
 
 # 💻 Internship Experience
 - 2023.04 - 2024.04, Research Asistant, supervised by <a href="https://sds.cuhk.edu.cn/en/teacher/498">Prof. Haizhou Li</a> and <a href="https://wsstriving.github.io">Shuai Wang</a>, The Chinese University of Hong Kong (Shenzhen). [[Project Demo]](../videos/Junjie_xinyi.mp4)
@@ -38,15 +33,7 @@ My research interest includes Speech Separation, Text to Speech and Speaker-rela
 # 📝 Publications
 
 ## 2024 
-- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL) [[demo]](../demo_page/MoMuSE/index.html) 
-- **<u>Li Junjie</u>**, Zhang Ke, Wang Shuai, Li Haizhou, Mak Man-Wai, Lee Kong Aik "On the effectiveness of enrollment speech augmentation for Target Speaker Extraction." arXiv preprint arXiv:2409.09589 (2024).(accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
-- Wang Jiahe, Wang Shuai,  **<u>Li Junjie</u>**, et al. ENHANCING SPEAKER EXTRACTION THROUGH RECTIFYING TARGET CONFUSION (accepted by SLT2024) [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
-- Wang Shuai, Zhang Ke, Lin Shaoxiong, **<u>Li Junjie</u>**, et al. (2024) WeSep: A Scalable and Flexible Toolkit Towards Generalizable Target Speaker Extraction. Proc. Interspeech 2024, 4273-4277, doi: 10.21437/Interspeech.2024-1840   [![](https://img.shields.io/github/stars/wenet-e2e/wesep?style=social&label=Code+Stars)](https://github.com/wenet-e2e/wesep)
-- Yang Hongli, Chen Xinyi, **<u>Li Junjie</u>**, et al. Listen to the Speaker in Your Gaze," 2024 IEEE International Conference on Cybernetics and Intelligent Systems (CIS) and IEEE International Conference on Robotics, Automation and Mechatronics (RAM), Hangzhou, China, 2024, pp. 380-385, doi: 10.1109/CIS-RAM61939.2024.10672879.
-- Tao Ruijie, Qian Xinyuan,Jiang Yidi, **<u>Li Junjie</u>**, Wang Jiadong, Li Haizhou Subtracting the unseen sounds: Reverse auditory
-selective hearing in audio-visual target speaker extraction. (Submitted to TASLP). 
-- **<u>Li Junjie</u>**, Tao Ruijie, et al. “Audio-Visual Active Speaker Extraction for Sparsely Overlapped Multi-talker
-Speech,” ICASSP 2024, pp. 10666-10670, doi: 10.1109/ICASSP48485.2024.10448398.   [![](https://img.shields.io/github/stars/mrjunjieli/ActiveExtract?style=social&label=Code+Stars)](https://github.com/mrjunjieli/ActiveExtract) [[Demo]](https://activeextract.github.io/) 
+- MoMuSE: Momentum Multi-modal target Speaker Extraction for scenarios with impaired visual cues (Submitted to SPL)
 
 ## Before
 - Wang Honglong, Fu Yanjie,**<u>Li Junjie</u>**, et al. ”Stream Attention Based U-Net for L3DAS23
@@ -68,15 +55,6 @@ cessing Letters, vol. 53, no. 2, pp. 1385–1400, 2021. (JCR Q3)  [![](https://i
 - 2018-2019 Merit Student (top 5%) [[pdf]](../pdf/Award_MeritStudent.pdf)
 - 2020 Outstanding Graduate Award (top 5%) [[pdf]](../pdf/Award_Outstanding_Graduate_Award.pdf)
 - 2021-2022 Honda Kiyoshi’s Advanced Speech Science Award [[pdf]](../pdf/hongda.pdf)
-
-# 😄 Academic Activities 
-- 2024.08 [PolyU Research Student Conference](https://events.polyu.edu.hk/prsc2024/home) [[Image]](../images/PRSC/index.html)
-- 2024.04 Attending ICASSP 2024, Korea. [[Image]](../images/icassp2024/index.html)
-- 2024.03 ICASSP 2024 preview, organised by <a href='https://sds.cuhk.edu.cn/en/teacher/641'>Dr. Zhizheng WU </a>, Shenzhen. [[Image]](../images/icassp2024_preview/index.html)
-- 2023.12 International Doctoral Forum 2023, CUHK. [[Image]](../images/CUHK2023/index.html)
-- 2023.12 International Workshop on Mathematical Issues in Information Sciences 2023, CUHK(SZ). [[Image]](../images/MIIS2023/index.html)
-- 2023.12 CHINA HI-TECH Forum 2023, Shenzhen. [[Image]](../images/HITECH2023/index.html)
-
 
 
 <!-- 
